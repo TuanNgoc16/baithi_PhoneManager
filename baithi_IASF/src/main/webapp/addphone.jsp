@@ -6,9 +6,7 @@
 </head>
 <body>
 <div id="wrapper">
-	<div id="header">
-		<h2>CodeLean Academy</h2>
-	</div>
+	
 </div>
 
 <div id="container">
