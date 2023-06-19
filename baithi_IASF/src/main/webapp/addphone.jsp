@@ -1,7 +1,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-	<title>Add Phone</title>
+	<title>Add Phone - Pham Tuan Ngoc</title>
 	<link type="text/css" rel="stylesheet" href="style.css">
 </head>
 <body>
