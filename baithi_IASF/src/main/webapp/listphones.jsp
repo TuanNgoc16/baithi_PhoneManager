@@ -9,7 +9,7 @@
 <body>
 <div id="wrapper">
 	<header id="header">
-		<h1>CodeLean Academy</h1>
+		
 		<link type="text/css" rel="stylesheet" href="css/style.css">
 	</header>
 </div>
