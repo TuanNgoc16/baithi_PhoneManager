@@ -2,7 +2,7 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <html>
 <head>
-	<title>Phone List</title>
+	<title>List Phone - Pham Tuan Ngoc</title>
 	<link type="text/css" rel="stylesheet" href="style1.css">
 
 </head>
